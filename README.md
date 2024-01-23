@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=00ff00&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=00ff00&vCenter=true&size=24"></a>
 </p>
 
 - 🏢 I'm a Front End Developer
@@ -39,5 +39,5 @@
  </div>
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Elbalouty&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmednaga2001&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 </div>
