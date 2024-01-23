@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=00ff00&vCenter=true&size=24"></a>
 </p>
 
-- 🏢 I'm a Front End Developer
+- 🏢 I'm a Full Stack Developer
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML5, CSS3, JavaScript, Bootstrap, React.js, Redux.js,Node.js, Express.js, MongoDB, Mongoose, or anything related to web development.
 - ⚡ Fun Fact: I know all Programming Memes🤩
