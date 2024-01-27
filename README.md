@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=00ff00&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&height=45&color=00ff00&vCenter=true&size=24"></a>
 </p>
 
 - 🏢 I'm a Full Stack Developer
@@ -23,18 +23,20 @@
 
 <h1 align="center">Tech Stack & Tools :computer:</h1>
  <div align="center">
-    <code><img title="HTML" height="45" src="assets/html.svg"></code>
+  <code><img title="HTML" height="45" src="assets/html.svg"></code>
   <code><img title="CSS" height="45" src="assets/css.svg"></code>
-  <code><img title="JavaScript" height="45" src="assets/javascript.svg"></code>
   <code><img title="Bootstrap" height="45" src="assets/bootstrap.svg"></code>
+  <code><img title="JavaScript" height="45" src="assets/javascript.svg"></code>
   <code><img title="React JS" height="45" src="assets/reactjs.svg"></code>
   <code><img title="Redux JS" height="45" src="assets/redux.svg"></code>
+  <code><img title="Json" height="45" src="assets/json.svg"></code>
+  <code><img title="NodeJS" height="45" src="https://skillicons.dev/icons?i=nodejs"></code>
+  <code><img title="ExpressJS" height="45" src="https://skillicons.dev/icons?i=express"></code>
+  <code><img title="MongoDB" height="45" src="https://skillicons.dev/icons?i=mongodb"></code>
+  <code><img title="npm JS" height="45" src="assets/npmjs.svg"></code>
   <code><img title="Git" height="45" src="assets/git.svg"></code>
   <code><img title="GitHub" height="45" src="assets/github.svg"></code>
-  <code><img title="JQuery" height="45" src="assets/jquery.svg"></code>
-  <code><img title="Json" height="45" src="assets/json.svg"></code>
-  <code><img title="npm JS" height="45" src="assets/npmjs.svg"></code>
-  <code><img title="Problem Solving" height="45" src="assets/problemSolving.png"></code>
+  <code><img title="Postman" src="https://skillicons.dev/icons?i=postman"></code>
   <code><img title="vscode" height="45" src="assets/vscode.svg"></code>
  </div>
 <hr>
